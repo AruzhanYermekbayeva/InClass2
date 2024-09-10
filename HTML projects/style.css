@@ -1,0 +1,38 @@
+.profile-card {
+    border: 2px solid #FF69B4; 
+    border-radius: 10px; 
+    margin: 
+    padding: 15px; 
+    width: 300px; 
+    text-align: center; 
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
+}
+.about-pet {
+    margin: 30px auto; 
+    padding: 20px;
+    background-color: #f0f0f0;
+    width: 80%; 
+    font-family: Arial, sans-serif; 
+    font-size: 18px;
+    display: block;
+}
+.pet-photo {
+    margin: 50px auto;
+    padding: 20px;
+    width: 60%;
+    text-align: center;
+    position: relative; 
+}
+.pet-image {
+    width: 100%; 
+    height: auto; 
+    border: 5px solid #ddd;
+    border-radius: 8px;
+}
+.pet-info{
+    font-size: 30px;
+    font-weight: 600px;
+    padding: 20px;
+    text-align: center;
+    
+}
